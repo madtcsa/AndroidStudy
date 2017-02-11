@@ -1,4 +1,4 @@
-package com.madchen.androidstudy;
+package com.madchen.mvpdemo;
 
 import android.content.Context;
 import android.support.test.InstrumentationRegistry;
@@ -21,6 +21,6 @@ public class ExampleInstrumentedTest {
         // Context of the app under test.
         Context appContext = InstrumentationRegistry.getTargetContext();
 
-        assertEquals("com.madchen.androidstudy", appContext.getPackageName());
+        assertEquals("com.madchen.mvpdemo", appContext.getPackageName());
     }
 }

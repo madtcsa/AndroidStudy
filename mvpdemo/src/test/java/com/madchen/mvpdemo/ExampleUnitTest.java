@@ -1,4 +1,4 @@
-package com.madchen.androidstudy;
+package com.madchen.mvpdemo;
 
 import org.junit.Test;
 
