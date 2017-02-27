@@ -3,8 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudy.iml" filepath="$PROJECT_DIR$/AndroidStudy.iml" />
-      <module fileurl="file://$PROJECT_DIR$/AndroidStudyGroup/AndroidStudyGroup.iml" filepath="$PROJECT_DIR$/AndroidStudyGroup/AndroidStudyGroup.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewevent/viewevent.iml" filepath="$PROJECT_DIR$/viewevent/viewevent.iml" />
     </modules>
   </component>
 </project>
