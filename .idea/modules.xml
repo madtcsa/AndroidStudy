@@ -3,6 +3,8 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/AndroidStudy.iml" filepath="$PROJECT_DIR$/AndroidStudy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentlifw/fragmentlifw.iml" filepath="$PROJECT_DIR$/fragmentlifw/fragmentlifw.iml" />
+      <module fileurl="file://$PROJECT_DIR$/handlerthreadtest/handlerthreadtest.iml" filepath="$PROJECT_DIR$/handlerthreadtest/handlerthreadtest.iml" />
       <module fileurl="file://$PROJECT_DIR$/hookstudy/hookstudy.iml" filepath="$PROJECT_DIR$/hookstudy/hookstudy.iml" />
       <module fileurl="file://$PROJECT_DIR$/mvpdemo/mvpdemo.iml" filepath="$PROJECT_DIR$/mvpdemo/mvpdemo.iml" />
       <module fileurl="file://$PROJECT_DIR$/viewevent/viewevent.iml" filepath="$PROJECT_DIR$/viewevent/viewevent.iml" />

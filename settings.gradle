@@ -1,1 +1,1 @@
-include ':mvpdemo', ':viewevent', ':hookstudy'
+include ':mvpdemo', ':viewevent', ':hookstudy', ':fragmentlifw', ':handlerthreadtest'
